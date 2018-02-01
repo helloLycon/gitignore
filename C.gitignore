@@ -1,3 +1,11 @@
+###### append by github.com:lk361115629/
+# "bak" file(gen by ultra-edit)
+*.bak
+# source insight
+*.em
+SI/
+si/
+
 # Prerequisites
 *.d
 
@@ -29,7 +37,7 @@
 *.dylib
 
 # Executables
-*.exe
+#*.exe
 *.out
 *.app
 *.i*86
