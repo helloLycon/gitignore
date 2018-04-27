@@ -5,6 +5,7 @@
 *.em
 SI/
 si/
+*.si4project
 
 # Prerequisites
 *.d
