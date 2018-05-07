@@ -1,4 +1,6 @@
-###### append by github.com:lk361115629/
+# append by github.com:lk361115629/
+# build directory
+build
 # "bak" file(gen by ultra-edit)
 *.bak
 # source insight
