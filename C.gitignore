@@ -1,12 +1,9 @@
-# append by https://github.com/helloLycon
+###### append by https://github.com/helloLycon ###### 
 # build directory
 build
 # "bak" file(gen by ultra-edit)
 *.bak
 # source insight
-*.em
-SI/
-si/
 *.si4project
 
 # Prerequisites
